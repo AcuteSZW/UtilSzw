@@ -6,6 +6,7 @@ import java.util.regex.Pattern;
  * @类名路径： com.huafa.build.goods.util Regular
  * @作者： 宋志伟
  * @创建时间：2020/6/23 15:28
+ * @更新时间 2020/10/16
  * @版本： 1.0.0
  */
 public class Regular {
